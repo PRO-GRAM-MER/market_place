@@ -1,0 +1,12 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`CustomButton snapshot test 1`] = `
+<DocumentFragment>
+  <button
+    class="undefined"
+    role="button"
+  >
+    Click Me
+  </button>
+</DocumentFragment>
+`;

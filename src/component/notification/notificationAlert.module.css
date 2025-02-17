@@ -1,0 +1,23 @@
+.box {
+  position:relative;
+  border-radius: 20px;
+  border: 1.5px solid #F1F1F1;
+  cursor: pointer;
+  padding: 4px;
+}
+
+.boxImg {
+  display: block;
+  width: 14px;
+  height:14px;
+}
+
+.boxImgAlert {
+  position: absolute;
+  width: 8px;
+  height:8px;
+  transform: translate(40%, -152%);
+  padding: 4px;
+  border-radius: 50%;
+  background-color: #FFFF;
+}
